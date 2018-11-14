@@ -1,12 +1,9 @@
 html {
    background-image: url('../img/large-banner-image.png');
    background-repeat: no-repeat;
-}
-
-div.title{
-background-color: rgb(244, 244, 244);
    background-size: cover;
 
+}
 div.column {
   background-color: #f4f4f4;
   position:relative;
