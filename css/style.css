@@ -5,6 +5,7 @@ html {
 
 div.title{
 background-color: rgb(244, 244, 244);
+   background-size: cover;
 
 div.column {
   background-color: #f4f4f4;
