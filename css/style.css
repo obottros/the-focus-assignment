@@ -2,6 +2,7 @@ html {
    background-image: url('../img/large-banner-image.png');
    background-repeat: no-repeat;
    background-size: cover;
+   
 
 }
 div.column {
@@ -9,5 +10,9 @@ div.column {
   position:relative;
   height: 425px;
   width: auto;
-  padding: 50px;
+
+}
+
+div.logo {
+text-align: center;
 }
