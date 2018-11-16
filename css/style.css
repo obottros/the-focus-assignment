@@ -5,6 +5,12 @@ html {
 }
 
 .header h1{
+.header > h1{
+  font-size: 60px;
+  position: relative;
+  top: 105px;
+  left: 485px;
+}
 }
 div.logo {
    position: relative;
@@ -22,7 +28,7 @@ div.white {
 div.gray {
   background-color: #e3e3e3;
   position:relative;
-  top: 1400px;
+  top: 700px;
   height: 425px;
   width: auto;
 }
