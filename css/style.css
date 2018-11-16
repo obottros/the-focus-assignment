@@ -1,6 +1,8 @@
 html {
    background-image: url('../img/large-banner-image.png');
    background-repeat: no-repeat;
+   height: 700px;
+   width: 1600px;
 }
 
 .header > h1{
