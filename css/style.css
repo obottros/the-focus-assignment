@@ -11,6 +11,11 @@ html {
   top: 105px;
   left: 485px;
 }
+.header > p{
+  font-size: 36px;
+  position: relative;
+  top: 240px;
+  left: 275px;
 }
 div.logo {
    position: relative;
