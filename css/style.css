@@ -13,10 +13,12 @@ html {
    left: 775px;
 }
 .header > p{
-  font-size: 36px;
-  position: relative;
-  top: 240px;
-  left: 275px;
+   position: relative;
+   font-family: 'Raleway', Myriad Pro;
+   font-weight: 300;
+   font-size: 36px;
+   top: 150px;
+   left: 475px;
 }
 div.logo {
    position: relative;
