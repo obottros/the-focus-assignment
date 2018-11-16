@@ -31,11 +31,11 @@ div.logo {
    left: 565px;
 }
 div.white {
-  background-color: #ffffff;
-  position:relative;
-  top:700px;
-  height: 500px;
-  width: auto;
+   background-color: #ffffff;
+   position:relative;
+   top:700px;
+   height: 500px;
+   width: auto;
 }
 
 div.gray {
