@@ -2,8 +2,13 @@ html {
    background-image: url('../img/large-banner-image.png');
    background-repeat: no-repeat;
    background-size: cover;
+}
 
-
+.header h1{
+}
+div.logo {
+   position: relative;
+   left: 420px;
 }
 
 div.white {
@@ -18,9 +23,4 @@ div.gray {
   position:relative;
   height: 425px;
   width: auto;
-
-}
-
-div.logo {
-text-align: center;
 }
