@@ -2,11 +2,14 @@ html {
    background-image: url('../img/large-banner-image.png');
    background-repeat: no-repeat;
    background-size: cover;
-   
+
 
 }
 div.column {
   background-color: #f4f4f4;
+}
+div.gray {
+  background-color: #e3e3e3;
   position:relative;
   height: 425px;
   width: auto;
