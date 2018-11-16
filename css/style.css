@@ -25,6 +25,11 @@ div.logo {
    left: 685px;
 }
 
+.iphone {
+   position: relative;
+   top: 250px;
+   left: 565px;
+}
 div.white {
   background-color: #ffffff;
   position:relative;
