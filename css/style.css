@@ -15,9 +15,10 @@ div.white {
   background-color: #ffffff;
   position:relative;
   top:700px;
-  height: 425px;
+  height: 500px;
   width: auto;
 }
+
 div.gray {
   background-color: #e3e3e3;
   position:relative;
