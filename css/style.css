@@ -6,6 +6,11 @@ html {
 }
 
 .header > h1{
+   position: relative;
+   font-family: 'Pacifico', Myriad Pro;
+   font-size: 60px;
+   top: 105px;
+   left: 775px;
 }
 .header > p{
   font-size: 36px;
