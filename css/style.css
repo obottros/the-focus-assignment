@@ -9,26 +9,36 @@ html {
    position: absolute;
    font-family: 'Pacifico', Myriad Pro;
    font-size: 60px;
-   top: 105px;
-   left: 775px;
+   top: 115px;
+   left: 730px;
 }
 .header > p{
    position: absolute;
    font-family: 'Raleway', Myriad Pro;
    font-weight: 300;
    font-size: 36px;
-   top: 150px;
-   left: 475px;
+   top: 230px;
+   left: 445px;
 }
-   left: 685px;
+
+.logo {
    position: absolute;
+   top: 105px;
+   left: 640px;
+}
+
+.arrow {
+   position: absolute;
+   top: 330px;
+   left: 735px;;
 }
 
 .iphone {
-   top: 250px;
-   left: 565px;
    position: absolute;
+   top: 405px;
+   left: 535px;
 }
+.white {
    background-color: #ffffff;
    position: absolute;
    top:700px;
@@ -38,8 +48,8 @@ html {
 
 .gray {
    background-color: #e3e3e3;
-   top: 700px;
    position:absolute;
+   top: 1400px;
    height: 425px;
    width: 1600px;
 }
