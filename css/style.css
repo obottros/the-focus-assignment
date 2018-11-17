@@ -132,3 +132,10 @@ html {
 .gray h2:nth-child(8) {}
 .gray p:nth-child(9) {}
 
+.bottom-white{
+   background-color: #ffffff;
+   position: absolute;
+   top: 1625px;
+   height: 725px;
+   width: 1600px;
+}
