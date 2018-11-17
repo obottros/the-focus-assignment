@@ -6,31 +6,31 @@ html {
 }
 
 .header > h1{
-   position: relative;
+   position: absolute;
    font-family: 'Pacifico', Myriad Pro;
    font-size: 60px;
    top: 105px;
    left: 775px;
 }
 .header > p{
-   position: relative;
+   position: absolute;
    font-family: 'Raleway', Myriad Pro;
    font-weight: 300;
    font-size: 36px;
    top: 150px;
    left: 475px;
 }
-   position: relative;
    left: 685px;
+   position: absolute;
 }
 
 .iphone {
-   position: relative;
    top: 250px;
    left: 565px;
+   position: absolute;
 }
    background-color: #ffffff;
-   position:relative;
+   position: absolute;
    top:700px;
    height: 390px;
    width: 1600px;
@@ -38,8 +38,8 @@ html {
 
 .gray {
    background-color: #e3e3e3;
-   position:relative;
    top: 700px;
+   position:absolute;
    height: 425px;
    width: 1600px;
 }
