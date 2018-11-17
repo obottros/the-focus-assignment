@@ -34,8 +34,8 @@ div.white {
    background-color: #ffffff;
    position:relative;
    top:700px;
-   height: 500px;
-   width: auto;
+   height: 390px;
+   width: 1600px;
 }
 
 div.gray {
@@ -43,5 +43,5 @@ div.gray {
    position:relative;
    top: 700px;
    height: 425px;
-   width: auto;
+   width: 1600px;
 }
