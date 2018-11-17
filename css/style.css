@@ -122,3 +122,13 @@ html {
    height: 425px;
    width: 1600px;
 }
+.gray img:nth-child(1) {}
+.gray img:nth-child(2) {}
+.gray img:nth-child(3) {}
+.gray img:nth-child(4) {}
+.gray img:nth-child(5) {}
+.gray img:nth-child(6) {}
+.gray img:nth-child(7) {}
+.gray h2:nth-child(8) {}
+.gray p:nth-child(9) {}
+
