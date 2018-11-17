@@ -44,6 +44,11 @@ html {
    height: 540px;
    width: 1600px;
 }
+.white h2:nth-child(1){
+   position: absolute;
+   font-family: 'Raleway', Myriad Pro;
+   font-weight: 600;
+   font-size: 22px;
 
 .gray {
    background-color: #e3e3e3;
