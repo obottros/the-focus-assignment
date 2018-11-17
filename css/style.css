@@ -61,6 +61,14 @@ html {
    top: 50px;
    left: 1030px;
 }
+.white h2:nth-child(3){
+   position: absolute;
+   font-family: 'Raleway', Myriad Pro;
+   font-weight: 600;
+   font-size: 22px;
+   top: 215px;
+   left: 230px
+}
 
 .gray {
    background-color: #e3e3e3;
