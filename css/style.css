@@ -78,6 +78,15 @@ html {
    top: 215px;
    left: 1030px;
 }
+.white p:nth-child(5){
+   font-family: 'Helvetica Neue', Myriad Pro;
+   font-size: 16px;
+   color: #848484;
+   position: absolute;
+   top: 90px;
+   left: 230px;
+   width:350px;
+ }
 
 .gray {
    background-color: #e3e3e3;
