@@ -24,25 +24,24 @@ html {
 .logo {
    position: absolute;
    top: 105px;
-   left: 640px;
 }
 
 .arrow {
    position: absolute;
    top: 330px;
-   left: 735px;;
+   left: 775px;;
 }
 
 .iphone {
-   position: absolute;
+   position: relative;
+   text-align: center;
    top: 405px;
-   left: 535px;
 }
 .white {
    background-color: #ffffff;
    position: absolute;
    top:700px;
-   height: 390px;
+   height: 540px;
    width: 1600px;
 }
 
