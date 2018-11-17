@@ -57,6 +57,9 @@ html {
    font-family: 'Raleway', Myriad Pro;
    font-weight: 600;
    font-size: 22px;
+   top: 50px;
+   left: 1030px;
+}
 
 .gray {
    background-color: #e3e3e3;
