@@ -158,6 +158,8 @@ left: 575px;
    font-weight: 600;
    font-size: 22px;
    font-family: 'Raleway', Myriad Pro;
+   top: 55px;
+   left: 170px;
 }
 .gray p:nth-child(9) {
    position: absolute;
