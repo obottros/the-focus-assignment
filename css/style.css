@@ -126,7 +126,6 @@ html {
    height: 435px;
    width: 1600px;
 }
-.gray img:nth-child(4) {}
 .gray img:nth-child(1) {
    position: absolute;
    top: 215px;
@@ -141,6 +140,11 @@ html {
    position: absolute;
    top: 215px;
    left: 350px;
+}
+.gray img:nth-child(4) {
+   position: absolute;
+   top: 255px;
+   left: 385px;
 }
 .gray img:nth-child(5) {
    position: absolute;
