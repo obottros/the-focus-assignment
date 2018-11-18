@@ -78,10 +78,11 @@ html {
    left: 1030px;
 }
 .white p:nth-child(5){
-   font-family: 'Helvetica Neue', Myriad Pro;
-   font-size: 16px;
-   color: #848484;
    position: absolute;
+   color: #848484;
+   font-size: 16px;
+   line-height: 25px;
+   font-family: 'Helvetica Neue', Myriad Pro;
    top: 90px;
    left: 230px;
    width:350px;
