@@ -140,6 +140,15 @@ html {
    font-size: 22px;
    font-family: 'Raleway', Myriad Pro;
 }
+.gray p:nth-child(9) {
+   position: absolute;
+   color: #848484;
+   font-size: 16.38px;
+   line-height: 25px;
+   font-family: 'Helvetica Neue', Myriad Pro;
+   width: 560px;
+   left: 170px;
+}
 
 .bottom-white{
    background-color: #ffffff;
