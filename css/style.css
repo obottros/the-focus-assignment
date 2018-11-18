@@ -133,6 +133,12 @@ html {
 .gray img:nth-child(7) {}
 .gray h2:nth-child(8) {}
 .gray p:nth-child(9) {}
+.gray h2:nth-child(8) {
+   position: absolute;
+   font-weight: 600;
+   font-size: 22px;
+   font-family: 'Raleway', Myriad Pro;
+}
 
 .bottom-white{
    background-color: #ffffff;
