@@ -33,9 +33,9 @@ html {
    left: 775px;;
 }
 
-.iphone {
-   position: relative;
-   text-align: center;
+.iphone img:nth-child(1) {
+   position: absolute;
+left: 575px;
    top: 405px;
 }
 .white {
