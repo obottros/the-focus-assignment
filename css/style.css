@@ -128,7 +128,10 @@ html {
 .gray img:nth-child(2) {}
 .gray img:nth-child(3) {}
 .gray img:nth-child(4) {}
-.gray img:nth-child(5) {}
+.gray img:nth-child(5) {
+   position: absolute;
+
+}
 .gray img:nth-child(6) {}
 .gray img:nth-child(7) {}
 .gray h2:nth-child(8) {
