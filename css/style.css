@@ -108,11 +108,13 @@ html {
    width:350px;
  }
  .white p:nth-child(8){
-   font-family: 'Helvetica Neue', Myriad Pro;
-   font-size: 16px;
-   color: #848484;
    position: absolute;
-   top: 260px;
+   color: #848484;
+   font-size: 16px;
+   line-height: 25px;
+   font-family: 'Helvetica Neue', Myriad Pro;
+   color: #848484;
+   top: 255px;
    left: 1030px;
    width:350px;
  }
@@ -153,7 +155,7 @@ html {
 .bottom-white{
    background-color: #ffffff;
    position: absolute;
-   top: 1625px;
-   height: 725px;
+   top: 1635px;
+   height: 730px;
    width: 1600px;
 }
