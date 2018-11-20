@@ -153,8 +153,17 @@ html {
    top: 55px;
    right: 195px;
 }
-.gray img:nth-child(6) {}
 .gray img:nth-child(7) {}
+.gray img:nth-child(6) {
+  position: absolute;
+  right: 320px;
+}
+.gray img:nth-child(7) {
+  position: absolute;
+  top: 300px;
+  right:615px;
+
+}
 .gray h2:nth-child(8) {
    position: absolute;
    font-weight: 600;
