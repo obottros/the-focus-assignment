@@ -198,3 +198,6 @@ font-weight: 400;
 top:55px;
 left: 355px;
 }
+strong,b {
+  font-weight: 700;
+}
