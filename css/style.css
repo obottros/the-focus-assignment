@@ -154,8 +154,9 @@ html {
    right: 230px;
 }
 .gray img:nth-child(6) {
-  position: absolute;
-  right: 320px;
+   position: absolute;
+   top: 300px;
+   right: 245px;
 }
 .gray img:nth-child(7) {
   position: absolute;
