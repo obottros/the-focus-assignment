@@ -190,3 +190,11 @@ html {
    height: 730px;
    width: 1600px;
 }
+.bottom-white p:nth-child(1) {
+position: absolute;
+font-size: 24px;
+font-family: 'Raleway', Myriad Pro;
+font-weight: 400;
+top:55px;
+left: 355px;
+}
