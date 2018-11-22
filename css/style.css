@@ -13,7 +13,7 @@ html {
    left: 765px;
 }
 .header > p{
-   position: absolute;
+   position: relative;
    font-family: 'Raleway', Myriad Pro;
    font-weight: 300;
    font-size: 36px;
@@ -23,7 +23,7 @@ html {
 
 .logo {
    position: absolute;
-   top: 105px;
+   top: 110px;
    left: 665px;
 }
 
