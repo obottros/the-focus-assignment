@@ -312,3 +312,33 @@ strong,b {
    top: 2340px;
 
 }
+.footer p:nth-child(1){
+  position: absolute;
+  font-size: 16px;
+  font-family: 'Helvetica Neue', Myriad Pro;
+}
+.footer p:nth-child(2){
+  position: absolute;
+  font-size: 16px;
+  font-family: 'Helvetica Neue', Myriad Pro;
+}
+.footer p:nth-child(3){
+  position: absolute;
+  font-size: 16px;
+  font-family: 'Helvetica Neue', Myriad Pro;
+}
+.footer p:nth-child(4){
+  position: absolute;
+  font-size: 16px;
+  font-family: 'Helvetica Neue', Myriad Pro;
+}
+.footer p:nth-child(5){
+  position: absolute;
+  font-size: 16px;
+  font-family: 'Helvetica Neue', Myriad Pro;
+}
+.footer p:nth-child(6){
+  position: absolute;
+  font-size: 16px;
+  font-family: 'Helvetica Neue', Myriad Pro;
+}
