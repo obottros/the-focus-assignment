@@ -38,7 +38,6 @@ html {
    left: 575px;
    top: 405px;
 }
-.iphone img:nth-child(1) {}
 .iphone img:nth-child(2) {
    position:absolute;
    top:  608px;
@@ -220,8 +219,58 @@ html {
    height: 730px;
    width: 1600px;
 }
-.bottom-white p:nth-child(1) {
 
+.bottom-white img:nth-child(1) {
+   position: absolute;
+   top: 175px;
+}
+.bottom-white img:nth-child(2) {
+   position: absolute;
+   top:255px;
+   right:605px;
+}
+.bottom-white img:nth-child(3) {
+   position: absolute;
+   top:310px;
+   right:660px;
+}
+.bottom-white img:nth-child(4) {
+   position: absolute;
+   top: 650px;
+   left: 645px;
+}
+.bottom-white img:nth-child(5) {
+   position: absolute;
+   top: 650px;
+   left: 690px;
+}
+.bottom-white img:nth-child(6) {
+   position: absolute;
+   top: 650px;
+   left: 735px;
+}
+.bottom-white img:nth-child(7) {
+   position: absolute;
+   top: 672px;
+   left: 750px;
+}
+.bottom-white img:nth-child(8) {
+  position: absolute;
+  top: 650px;
+  left: 780px;
+}
+.bottom-white img:nth-child(9) {
+  position: absolute;
+  top: 650px;
+  left: 825px;
+}
+.bottom-white img:nth-child(10){
+  position: absolute;
+  top: 650px;
+  left: 870px;
+}
+
+.bottom-white p:nth-child(11) {
    position: absolute;
    font-size: 24px;
    font-family: 'Raleway', Myriad Pro;
@@ -232,6 +281,25 @@ html {
 strong,b {
   font-weight: 700;
 }
-.bottom-white p:nth-child(2) {
+.bottom-white p:nth-child(12) {
    position: absolute;
+   font-size: 14px;
+   top: 105px;
+   left: 695px;
+}
+.bottom-white h2:nth-child(13) {
+   position: absolute;
+   font-size: 24px;
+   font-family: 'Raleway', Myriad Pro;
+   font-weight: 600;
+   top: 557px;
+   left: 650px;
+}
+.bottom-white p:nth-child(14) {
+   position: absolute;
+   font-size: 16px;
+   font-family: 'Helvetica Neue', Myriad Pro;
+   top: 603px;
+   left: 525px;
+
 }
