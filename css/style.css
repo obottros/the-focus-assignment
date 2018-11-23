@@ -297,6 +297,7 @@ strong,b {
 }
 .bottom-white p:nth-child(14) {
    position: absolute;
+   color: #848484;
    font-size: 16px;
    font-family: 'Helvetica Neue', Myriad Pro;
    top: 603px;
