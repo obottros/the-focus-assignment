@@ -54,6 +54,11 @@ html {
    top:  895px;
    left: 720px;
 }
+.iphone img:nth-child(5) {
+   position:absolute;
+   top:  800px;
+   left: 850px;
+}
 
 .white {
    background-color: #ffffff;
