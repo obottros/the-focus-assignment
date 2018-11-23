@@ -337,9 +337,12 @@ strong,b {
    left: 685px;
 }
 .footer p:nth-child(4){
-  position: absolute;
-  font-size: 16px;
-  font-family: 'Helvetica Neue', Myriad Pro;
+   color: #848484;
+   position: absolute;
+   font-size: 16px;
+   font-family: 'Helvetica Neue', Myriad Pro;
+   top: 60px;
+   left: 765px;
 }
 .footer p:nth-child(5){
   position: absolute;
