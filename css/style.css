@@ -5,16 +5,17 @@ html {
    width: 1600px;
 }
 
-.header > h1{
+.header > h1 {
    position: absolute;
-   font-family: 'Pacifico', Myriad Pro;
+   font-family: Pacifico, 'Myriad Pro', cursive;
    font-size: 60px;
    top: 115px;
    left: 765px;
 }
-.header > p{
+
+.header > p {
    position: relative;
-   font-family: 'Raleway', Myriad Pro;
+   font-family: Raleway, 'Myriad Pro', cursive;
    font-weight: 300;
    font-size: 36px;
    top: 230px;
@@ -38,182 +39,203 @@ html {
    left: 575px;
    top: 405px;
 }
+
 .iphone img:nth-child(2) {
-   position:absolute;
-   top:  608px;
+   position: absolute;
+   top: 608px;
    left: 850px;
 }
+
 .iphone img:nth-child(3) {
-   position:absolute;
-   top:  690px;
+   position: absolute;
+   top: 690px;
    left: 720px;
 }
+
 .iphone img:nth-child(4) {
-   position:absolute;
-   top:  895px;
+   position: absolute;
+   top: 895px;
    left: 720px;
 }
+
 .iphone img:nth-child(5) {
-   position:absolute;
-   top:  800px;
+   position: absolute;
+   top: 800px;
    left: 850px;
 }
+
 .iphone img:nth-child(7) {
-   position:absolute;
-   top:  816px;
+   position: absolute;
+   top: 816px;
    left: 863px;
 }
+
 .iphone img:nth-child(6) {
-   position:absolute;
-   top:  815px;
+   position: absolute;
+   top: 815px;
    left: 865px;
 }
 
 .white {
-   background-color: #ffffff;
+   background-color: #fff;
    position: absolute;
-   top:700px;
+   top: 700px;
    height: 500px;
    width: 1600px;
 }
-.white h2:nth-child(1){
+
+.white h2:nth-child(1) {
    position: absolute;
-   font-family: 'Raleway', Myriad Pro;
+   font-family: Raleway, 'Myriad Pro', cursive;
    font-weight: 600;
    font-size: 22px;
    top: 50px;
-   left: 230px
+   left: 230px;
 }
-.white h2:nth-child(2){
+
+.white h2:nth-child(2) {
    position: absolute;
-   font-family: 'Raleway', Myriad Pro;
+   font-family: Raleway, 'Myriad Pro', cursive;
    font-weight: 600;
    font-size: 22px;
    top: 50px;
    left: 1030px;
 }
-.white h2:nth-child(3){
+
+.white h2:nth-child(3) {
    position: absolute;
-   font-family: 'Raleway', Myriad Pro;
+   font-family: Raleway, 'Myriad Pro', cursive;
    font-weight: 600;
    font-size: 22px;
    top: 215px;
-   left: 230px
+   left: 230px;
 }
-.white h2:nth-child(4){
+
+.white h2:nth-child(4) {
    position: absolute;
    font-weight: 600;
    font-size: 22px;
-   font-family: 'Raleway', Myriad Pro;
+   font-family: Raleway, 'Myriad Pro', cursive;
    top: 215px;
    left: 1030px;
 }
-.white p:nth-child(5){
+
+.white p:nth-child(5) {
    position: absolute;
    color: #848484;
    font-size: 16px;
    line-height: 25px;
-   font-family: 'Helvetica Neue', Myriad Pro;
+   font-family: Helvetica-Neue, 'Myriad Pro', cursive;
    top: 90px;
    left: 230px;
-   width:350px;
- }
- .white p:nth-child(6){
+   width: 350px;
+}
+
+.white p:nth-child(6) {
    position: absolute;
    color: #848484;
    font-size: 16px;
    line-height: 25px;
-   font-family: 'Helvetica Neue', Myriad Pro;
+   font-family: Helvetica-Neue, 'Myriad Pro', cursive;
    top: 90px;
    left: 1030px;
-   width:350px;
- }
- .white p:nth-child(7){
+   width: 350px;
+}
+
+.white p:nth-child(7) {
    position: absolute;
    color: #848484;
    font-size: 16px;
    line-height: 25px;
-   font-family: 'Helvetica Neue', Myriad Pro;
+   font-family: Helvetica-Neue, 'Myriad Pro', cursive;
    top: 255px;
    left: 230px;
-   width:350px;
- }
- .white p:nth-child(8){
+   width: 350px;
+}
+
+.white p:nth-child(8) {
    position: absolute;
    color: #848484;
    font-size: 16px;
    line-height: 25px;
-   font-family: 'Helvetica Neue', Myriad Pro;
-   color: #848484;
+   font-family: Helvetica-Neue, 'Myriad Pro', cursive;
    top: 255px;
    left: 1030px;
-   width:350px;
- }
+   width: 350px;
+}
 
 .gray {
    background-color: #e3e3e3;
-   position:absolute;
+   position: absolute;
    top: 1200px;
    height: 410px;
    width: 1600px;
 }
+
 .gray img:nth-child(1) {
    position: absolute;
    top: 215px;
    left: 170px;
 }
+
 .gray img:nth-child(2) {
    position: absolute;
    top: 215px;
    left: 260px;
 }
+
 .gray img:nth-child(3) {
    position: absolute;
    top: 215px;
    left: 350px;
 }
+
 .gray img:nth-child(4) {
    position: absolute;
    top: 255px;
    left: 385px;
 }
+
 .gray img:nth-child(5) {
    position: absolute;
    top: 55px;
    right: 230px;
 }
+
 .gray img:nth-child(6) {
    position: absolute;
    top: 300px;
    right: 245px;
 }
+
 .gray img:nth-child(7) {
    position: absolute;
    top: 300px;
-   right:630px;
-
+   right: 630px;
 }
+
 .gray h2:nth-child(8) {
    position: absolute;
    font-weight: 600;
    font-size: 22px;
-   font-family: 'Raleway', Myriad Pro;
+   font-family: Raleway, 'Myriad Pro', cursive;
    top: 55px;
    left: 170px;
 }
+
 .gray p:nth-child(9) {
    position: absolute;
    color: #848484;
    font-size: 16.38px;
    line-height: 25px;
-   font-family: 'Helvetica Neue', Myriad Pro;
+   font-family: Helvetica-Neue, 'Myriad Pro', cursive;
    width: 560px;
    top: 95px;
    left: 170px;
 }
 
-.bottom-white{
-   background-color: #ffffff;
+.bottom-white {
+   background-color: #fff;
    position: absolute;
    top: 1610px;
    height: 730px;
@@ -224,140 +246,158 @@ html {
    position: absolute;
    top: 175px;
 }
+
 .bottom-white img:nth-child(2) {
    position: absolute;
-   top:255px;
-   right:605px;
+   top: 255px;
+   right: 605px;
 }
+
 .bottom-white img:nth-child(3) {
    position: absolute;
-   top:310px;
-   right:660px;
+   top: 310px;
+   right: 660px;
 }
+
 .bottom-white img:nth-child(4) {
    position: absolute;
    top: 650px;
    left: 645px;
 }
+
 .bottom-white img:nth-child(5) {
    position: absolute;
    top: 650px;
    left: 690px;
 }
+
 .bottom-white img:nth-child(6) {
    position: absolute;
    top: 650px;
    left: 735px;
 }
+
 .bottom-white img:nth-child(7) {
    position: absolute;
    top: 672px;
    left: 750px;
 }
+
 .bottom-white img:nth-child(8) {
-  position: absolute;
-  top: 650px;
-  left: 780px;
+   position: absolute;
+   top: 650px;
+   left: 780px;
 }
+
 .bottom-white img:nth-child(9) {
-  position: absolute;
-  top: 650px;
-  left: 825px;
+   position: absolute;
+   top: 650px;
+   left: 825px;
 }
-.bottom-white img:nth-child(10){
-  position: absolute;
-  top: 650px;
-  left: 870px;
+
+.bottom-white img:nth-child(10) {
+   position: absolute;
+   top: 650px;
+   left: 870px;
 }
 
 .bottom-white p:nth-child(11) {
    position: absolute;
    font-size: 24px;
-   font-family: 'Raleway', Myriad Pro;
+   font-family: Raleway, 'Myriad Pro', cursive;
    font-weight: 400;
-   top:55px;
+   top: 55px;
    left: 355px;
 }
-strong,b {
-  font-weight: 700;
+
+strong,
+b {
+   font-weight: 700;
 }
+
 .bottom-white p:nth-child(12) {
    position: absolute;
    font-size: 14px;
    top: 105px;
    left: 695px;
 }
+
 .bottom-white h2:nth-child(13) {
    position: absolute;
    font-size: 24px;
-   font-family: 'Raleway', Myriad Pro;
+   font-family: Raleway, 'Myriad Pro', cursive;
    font-weight: 600;
    top: 557px;
    left: 650px;
 }
+
 .bottom-white p:nth-child(14) {
    position: absolute;
    color: #848484;
    font-size: 16px;
-   font-family: 'Helvetica Neue', Myriad Pro;
+   font-family: Helvetica-Neue, 'Myriad Pro', cursive;
    top: 603px;
    left: 525px;
-
 }
 
-.footer{
+.footer {
    background-color: #e3e3e3;
    position: absolute;
    height: 130px;
    width: 1600px;
    top: 2340px;
-
 }
-.footer p:nth-child(1){
+
+.footer p:nth-child(1) {
    color: #848484;
    position: absolute;
    font-size: 16px;
-   font-family: 'Helvetica Neue', Myriad Pro;
+   font-family: Helvetica-Neue, 'Myriad Pro', cursive;
    top: 60px;
    left: 490px;
 }
-.footer p:nth-child(2){
+
+.footer p:nth-child(2) {
    color: #848484;
    position: absolute;
    font-size: 16px;
-   font-family: 'Helvetica Neue', Myriad Pro;
+   font-family: Helvetica-Neue, 'Myriad Pro', cursive;
    top: 60px;
    left: 580px;
 }
-.footer p:nth-child(3){
+
+.footer p:nth-child(3) {
    color: #848484;
    position: absolute;
    font-size: 16px;
-   font-family: 'Helvetica Neue', Myriad Pro;
+   font-family: Helvetica-Neue, 'Myriad Pro', cursive;
    top: 60px;
    left: 685px;
 }
-.footer p:nth-child(4){
+
+.footer p:nth-child(4) {
    color: #848484;
    position: absolute;
    font-size: 16px;
-   font-family: 'Helvetica Neue', Myriad Pro;
+   font-family: Helvetica-Neue, 'Myriad Pro', cursive;
    top: 60px;
    left: 765px;
 }
-.footer p:nth-child(5){
+
+.footer p:nth-child(5) {
    color: #848484;
    position: absolute;
    font-size: 16px;
-   font-family: 'Helvetica Neue', Myriad Pro;
+   font-family: Helvetica-Neue, 'Myriad Pro', cursive;
    top: 60px;
    left: 840px;
 }
-.footer p:nth-child(6){
+
+.footer p:nth-child(6) {
    color: #848484;
    position: absolute;
    font-size: 16px;
-   font-family: 'Helvetica Neue', Myriad Pro;
+   font-family: Helvetica-Neue, 'Myriad Pro', cursive;
    top: 60px;
    left: 933px;
 }
